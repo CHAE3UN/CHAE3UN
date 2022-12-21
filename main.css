@@ -77,3 +77,35 @@
     opacity: 0.8;
     border: solid gray
   }
+
+  .box4 {
+    text-align: center; 
+    font-size:20px;
+    width: 500px;
+    height: 30px;
+    background-color: #ffffff;
+    opacity: 0.8;
+    border: solid gray;
+    position: relative;
+    margin: 0 auto;
+    top: 70px;
+  }
+
+  .menu {
+    width: 500px;
+    height: 200px;
+    background-color: #ffffff;
+    
+    border: solid gray;
+    position: relative;
+    margin: 0 auto;
+    top: 70px;
+    overflow: hidden
+  }
+
+  .food {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    
+  }
